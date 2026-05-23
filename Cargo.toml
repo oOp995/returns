@@ -1,0 +1,13 @@
+[package]
+name = "returns"
+version = "0.1.0"
+edition = "2024"
+readme = "README.md"
+description = "temporary return macros to let the compiler shut the fun up while building"
+license = "MIT"
+repository = "https://github.com/oOp995/returns"
+homepage = "https://github.com/oOp995/returns"
+categories = ["development-tools", "no-std"]
+keywords = ["macro", "temporary", "prototyping", "placeholder", "return"]
+
+[dependencies]
