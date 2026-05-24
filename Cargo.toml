@@ -1,6 +1,6 @@
 [package]
 name = "returns"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 readme = "README.md"
 description = "temporary return macros to let the compiler shut the fun up while building"
